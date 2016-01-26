@@ -25,8 +25,8 @@ Future improvements
 - [ ] Adding network card to a virtual machine.
 
 
-License
--------
+Copyright
+---------
 This project is under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
 
 A copy of this license is included in the file [LICENSE](https://github.com/EduardoGR/ESXi-tools/blob/master/LICENSE).
