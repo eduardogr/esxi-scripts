@@ -22,3 +22,4 @@ Future improvements
 -------------------
 - [ ] Adding *.iso image to a virtual machine.
 - [ ] Delete multiple virtual machines.
+- [ ] Adding network card to a virtual machine.
