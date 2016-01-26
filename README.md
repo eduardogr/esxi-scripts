@@ -23,3 +23,9 @@ Future improvements
 - [ ] Adding *.iso image to a virtual machine.
 - [ ] Delete multiple virtual machines.
 - [ ] Adding network card to a virtual machine.
+- 
+
+License
+-------
+This project is under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
+You should have received a copy of the [GNU General Public License](https://github.com/EduardoGR/ESXi-tools/blob/master/LICENSE) in this repository.
