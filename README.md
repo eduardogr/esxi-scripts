@@ -23,6 +23,8 @@ Future improvements
 - [ ] Adding *.iso image to a virtual machine.
 - [ ] Delete multiple virtual machines.
 - [ ] Adding network card to a virtual machine.
+- [ ] To control that the deletion of a linked clone doesn't damage the parent virtual machine.
+- [ ] Adding the posibility to create a linked clone of a linked clone.
 
 
 Copyright
