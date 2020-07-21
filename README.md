@@ -18,7 +18,7 @@
 - **[linked_clone.sh](https://github.com/EduardoGR/ESXi-tools/blob/master/ESXi-tools/linked_clone.sh)**  creates a linked clone of an existing virtual machine.
 
 # Future improvements
--------------------
+
 - [ ] Adding *.iso image to a virtual machine.
 - [ ] Delete multiple virtual machines.
 - [ ] Adding network card to a virtual machine.
