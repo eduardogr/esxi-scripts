@@ -5,17 +5,17 @@
 
 # Scripts
 
-- **[create_vm.sh](https://github.com/EduardoGR/ESXi-tools/blob/master/ESXi-tools/create_vm.sh)** creates a virtual machine with minimal features.  
+- **[create_vm.sh](https://github.com/eduardogr/esxi-scripts/blob/master/ESXi-tools/create_vm.sh)** creates a virtual machine with minimal features.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-g , --guestSO**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set the guest SO.    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-s , --size**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set the size of the virtual disk.
      
-- **[delete_vm.sh](https://github.com/EduardoGR/ESXi-tools/blob/master/ESXi-tools/delete_vm.sh)** deletes an existing virtual machine.
+- **[delete_vm.sh](https://github.com/eduardogr/esxi-scripts/blob/master/ESXi-tools/delete_vm.sh)** deletes an existing virtual machine.
 
-- **[full_clone.sh](https://github.com/EduardoGR/ESXi-tools/blob/master/ESXi-tools/full_clone.sh)** creates a full clone of an existing virtual machine.
+- **[full_clone.sh](https://github.com/eduardogr/esxi-scripts/blob/master/ESXi-tools/full_clone.sh)** creates a full clone of an existing virtual machine.
  
-- **[linked_clone.sh](https://github.com/EduardoGR/ESXi-tools/blob/master/ESXi-tools/linked_clone.sh)**  creates a linked clone of an existing virtual machine.
+- **[linked_clone.sh](https://github.com/eduardogr/esxi-scripts/blob/master/ESXi-tools/linked_clone.sh)**  creates a linked clone of an existing virtual machine.
 
 # Future improvements
 
