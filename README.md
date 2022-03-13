@@ -19,6 +19,7 @@
 
 # Future improvements
 
+- [ ] Adding development environment to this repository in order to run scripts and test them
 - [ ] Adding *.iso image to a virtual machine.
 - [ ] Delete multiple virtual machines.
 - [ ] Adding network card to a virtual machine.
